@@ -6,3 +6,5 @@ This project will contains:
 2) Assamply menual (last pages in the final report)
 3) Eagle PCB sketches
 4) Arudino code for menual and automatic motion
+5) Led controller code
+6) LabView GUI controller
